@@ -1,0 +1,142 @@
+body {
+  font-family: "Avenir Next";
+}
+header li:hover{
+  background-color:blue;
+}
+header li:active{
+  background-color:cyan;
+}
+
+
+ul .btn{
+  background-color:cyan;
+  border:1px solid #26d0c9;
+}
+header{
+  background-color:#26d0c9;
+  color:#fff;
+  height:90px;
+}
+header .Progate {
+  float:left;
+  font-size:36px;
+  padding:20px 40px;
+}
+ul .list{
+  float:left;
+}
+.list li{
+  float:right;
+  padding:33px 20px;
+  list-style: none;
+  height:20px;
+  border-radius: 20px;
+}
+main{
+  padding:100px 80px;
+  text-align: center;
+}
+h1{
+  font-size:140px;
+}
+h2{
+  font-size:60px;
+}
+h3{
+  font-size:28px;
+  padding-bottom:15px;
+  margin-top:100px;
+  border-bottom: 2px solid #dee7ec;
+}
+.container-list{
+  height:500px;
+  float:left;
+  margin-bottom:50px;
+  margin-left:40px;
+}
+.container-item{
+  float:left;
+  padding-top:50px;
+  list-style: none;
+  padding-left: 40px;
+  padding-bottom:30px;
+  padding-right:40px;
+  align: center;
+}
+.container-item p{
+  font-size:24px;
+  margin-top:30px;
+}
+.container-item img{
+  height:225px;
+  wigth:225px;
+}
+.contact-us{
+  margin-top:600px;
+}
+.contact-us h3{
+  font-size:28px;
+  margin-bottom:15px;
+  border-bottom: 2px solid #dee7ec;
+}
+input,textarea{
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+.button{
+  background-color:#2f5167;
+  color:#889eab;
+  text-align:center;
+  border-radius: 100%;
+}
+.button:hover{
+  background-color:cyan;
+}
+.button:active{
+  background-color:#2f5167; 
+}
+.block{
+  margin-top:50px;
+}
+footer{
+  background-color:#2f5167;
+  color:#fff;
+  height:120px;
+  padding:40px 40px;
+}
+.end-heading{
+  font-size:32px;
+}
+.end-heading ul{
+  float:right;
+}
+
+.end-heading li{
+  list-style: none;
+  text-align: center;
+  padding:20px 20px;
+  font-size:20px;
+  padding-bottom:20px;
+  float:left;
+  margin-left:30px;
+  height:10px;
+  width:100px;
+}
+.end-heading li:hover
+{
+  background-color:cyan;
+  border-radius:20px;
+}
+.end-heading li:active{
+  background-color:#2f5167;
+  text-align: center;
+}
+.container{
+  background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX31968626.jpg");
+  background-size:cover;
+}
